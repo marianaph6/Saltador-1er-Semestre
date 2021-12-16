@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=NivelTres
+comment1.params=
+comment1.target=void\ contarTiempo()
+comment2.params=
+comment2.target=void\ crearRunner()
+comment3.params=numero
+comment3.target=void\ crearTesoros(int)
+comment4.params=vida
+comment4.target=void\ perderVidasARunner(int)
+comment5.params=tesoro
+comment5.target=void\ sumarTesoros(int)
+comment6.params=numero
+comment6.target=void\ crearEnemigoUno(int)
+comment7.params=
+comment7.target=void\ prepare()
+comment8.params=
+comment8.target=NivelTres()
+numComments=9

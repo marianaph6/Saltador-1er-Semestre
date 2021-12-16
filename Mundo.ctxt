@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Mundo
+comment1.params=
+comment1.target=void\ contarTiempo()
+comment2.params=numero
+comment2.target=void\ crearTesoros(int)
+comment3.params=vida
+comment3.target=void\ perderVidasARunner(int)
+comment4.params=tesoro
+comment4.target=void\ sumarTesoros(int)
+comment5.params=
+comment5.target=Mundo()
+numComments=6

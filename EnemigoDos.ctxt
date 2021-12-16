@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=EnemigoDos
+comment1.params=
+comment1.target=void\ generarAnimacion()
+comment2.params=vel
+comment2.target=EnemigoDos(int)
+comment3.params=
+comment3.target=void\ mover()
+comment4.params=
+comment4.target=void\ act()
+numComments=5
